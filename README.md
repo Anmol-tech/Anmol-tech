@@ -15,13 +15,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Q-Stream&repo=Q-Stream)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=wegrow)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=VideoPlayer-js)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=ConnectInstance)
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Q-Stream&repo=Q-Stream&theme=gotham)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=wegrow&theme=gotham)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=VideoPlayer-js&theme=gotham)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol-tech&repo=ConnectInstance&theme=gotham)
 
 <p><a href="https://github.com/Anmol-tech" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/anmol2512s/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
