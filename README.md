@@ -37,15 +37,6 @@
   <a href="https://medium.com/@anmol2512s" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Anmol-tech&show_icons=true&theme=gotham" height="150"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-tech&theme=gotham" height="150"/>
-</p>
-
----
 
 <!-- Footer -->
 <p align="center">
