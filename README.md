@@ -17,9 +17,13 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python, TypeScript, Java, C++, SQL, Dart
+
 **AI / ML:** LangChain, OpenAI APIs, HuggingFace, PyTorch, TensorFlow, Scikit-learn
+
 **Frameworks:** FastAPI, Flask, React, Next.js, Flutter
+
 **Cloud & DevOps:** AWS (Lambda, S3, EC2), GCP, Docker, Firebase
+
 **Databases:** PostgreSQL, Redis, MySQL, Firestore, Pinecone
 
 ---
